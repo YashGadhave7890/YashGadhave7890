@@ -17,7 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/yash-gadhave-43072a288" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/yash-gadhave-43072a288" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/https://www.linkedin.com/in/yash-gadhave-43072a288](https://www.linkedin.com/in/yash-gadhave-43072a288)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/yash-gadhave-43072a288" height="30" width="40" /></a>
 <a href="https://instagram.com/itsy_a_s_h7890" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="itsy_a_s_h7890" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/yg creative" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="yg creative" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/yashgadhave7890" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="yashgadhave7890" height="30" width="40" /></a>
