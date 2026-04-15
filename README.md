@@ -1,20 +1,25 @@
 <h1 align="center">🚀 Yash Gadhave</h1>
-<h3 align="center">💻 Full Stack Developer | 🚀 Tech Enthusiast | 🎯 Problem Solver</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;JavaScript+%7C+Python+%7C+Java;Building+Cool+Projects;Always+Learning+New+Tech🚀" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Tech+Enthusiast;Problem+Solver;Building+Next+Gen+Projects🚀" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-FullStack-blueviolet?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Lives-India-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Learning-AI%20%26%20Web-success?style=for-the-badge" />
 </p>
 
 ---
 
 ## 🧑‍💻 About Me
 
-<img align="right" alt="coding" width="300" src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif"/>
+<img align="right" width="300" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 
 - 🔭 Working on **Full Stack Projects**
 - 🌱 Learning **Advanced Web Development & AI**
-- 💬 Ask me about **Web Dev, Debugging & Projects**
-- ⚡ Fun fact: *I mix coding with creativity 😎*
+- 💬 Ask me about **Web Dev & Debugging**
+- ⚡ Fun fact: *Creative + Funny 😎*
 
 ---
 
@@ -37,7 +42,7 @@
 ## ⚡ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,java,php,mongodb,mysql,firebase,aws,c,kotlin&perline=7" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,java,php,mongodb,mysql,firebase,aws&perline=6" />
 </p>
 
 ---
@@ -45,13 +50,13 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YashGadhave7890&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YashGadhave7890&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YashGadhave7890&show_icons=true&theme=tokyonight&hide_border=true" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YashGadhave7890&layout=compact&theme=tokyonight&hide_border=true" width="47%" />
 </p>
 
 ---
 
-## 🔥 Streak Stats (FIXED)
+## 🔥 Streak Stats
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=YashGadhave7890&theme=tokyonight&hide_border=true" />
@@ -59,7 +64,7 @@
 
 ---
 
-## 📈 Contribution Graph (FIXED)
+## 📈 Activity Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=YashGadhave7890&theme=tokyo-night&hide_border=true" />
@@ -77,14 +82,14 @@
 
 ## 🚀 Featured Projects
 
-- 🔹 DVST-LAB – Dashboard Visualization System  
-- 🔹 Weather App – Real-time UI  
-- 🔹 Code Indenter – Multi-language formatter  
+- 🔹 DVST-LAB  
+- 🔹 Weather App  
+- 🔹 Code Indenter  
 - 🔹 Tic-Tac-Toe AI  
 
 ---
 
-## 💡 Developer Quote
+## 💡 Quote
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
@@ -92,12 +97,4 @@
 
 ---
 
-## 👀 Profile Views
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YashGadhave7890&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
-</p>
-
----
-
-<h3 align="center">🔥 "Code. Create. Innovate. Repeat." 🔥</h3>
+<h3 align="center">🔥 Code. Build. Grow. 🔥</h3>
